@@ -1,0 +1,27 @@
+@relation thoiGianTBAn
+
+@attribute so_luong_khach numeric
+@attribute so_luong_mon_an numeric
+@attribute thoi_gian_an numeric
+
+@data
+1,1,25
+2,2,35
+2,3,40
+3,3,45
+3,4,50
+4,4,55
+4,5,60
+5,5,65
+5,6,70
+1,2,30
+2,4,45
+3,5,55
+4,6,65
+5,7,75
+6,6,80
+2,1,30
+3,2,40
+4,3,50
+5,4,60
+6,5,70
