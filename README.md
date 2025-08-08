@@ -46,9 +46,9 @@
 - Quản lý khuyến mãi
   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1ce3f496-18a0-4478-9fd4-66a1562631b4" />
 - Kết ca làm việc
-  <img width="859" height="804" alt="image" src="https://github.com/user-attachments/assets/4feb952a-32dc-4a6f-935e-0073f7b1db04" />
+  <img width="859" height="804" alt="image" src="https://github.com/user-attachments/assets/4feb952a-32dc-4a6f-935e-0073f7b1db04" />  
 ## MÔI TRƯỜNG
-[Eclipse IDE](https://www.eclipse.org/downloads/)
+[Eclipse IDE](https://www.eclipse.org/downloads/)  
 [Visual Paradigm for UML Enterprise Edition](https://www.visual-paradigm.com/download/)
 
 
