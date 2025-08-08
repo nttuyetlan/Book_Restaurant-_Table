@@ -47,11 +47,15 @@
   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/1ce3f496-18a0-4478-9fd4-66a1562631b4" />
 - Kết ca làm việc  
   <img width="859" height="804" alt="image" src="https://github.com/user-attachments/assets/4feb952a-32dc-4a6f-935e-0073f7b1db04" />
-  
+- Gửi email xác nhận
+  <img width="609" height="554" alt="image" src="https://github.com/user-attachments/assets/da9dd1d2-2163-4d96-9040-810e3ad52fdd" />
+
 ## MÔI TRƯỜNG
 [Eclipse IDE](https://www.eclipse.org/downloads/)  
 [Visual Paradigm for UML Enterprise Edition](https://www.visual-paradigm.com/download/)
-
+[Drawio](https://www.drawio.com/)
+[SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+[Figma](https://www.figma.com/)
 
 
 
