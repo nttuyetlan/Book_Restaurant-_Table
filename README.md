@@ -28,13 +28,13 @@
 - Đăng nhập
   <img width="984" height="617" alt="image" src="https://github.com/user-attachments/assets/9a4a1bf0-0871-46a0-a917-ffb901fc45b3" />
 - Mở ca làm việc
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4b8da810-b095-4f86-a5ed-3a297c958cd1" />
+  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9332aecb-5a3e-4533-8387-de0803a6959c" />
 - Lịch sử ca làm việc
   <img width="1109" height="742" alt="image" src="https://github.com/user-attachments/assets/abf055ad-ac85-4a43-8ce8-86db92540c35" />
 - Đặt bàn trước
   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4dce3262-7af3-433c-b402-90d0004c762c" />
 - Đặt bàn trực tiếp
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c1f350d-3db4-4710-9eee-50ee517ca2fa" />
+  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8fa6009f-ac72-4bcc-a762-6b25289b14cb" />
 - Đặt món
   <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9a8c08d3-6518-4972-a583-e104d384e8bf" />
 - Hóa đơn
