@@ -23,6 +23,7 @@
 - Quản lý khu vực
 - Quản lý khuyến mãi
 - Quản lý ca làm việc
+- Mô hình AI dự đoán thời gian ăn
 - Báo cáo
 ## SCREENSHOTS
 - Đăng nhập
